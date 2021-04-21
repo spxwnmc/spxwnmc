@@ -6,6 +6,8 @@
 
 I'm a network student or smt like that, I love the programming, Unix-like systems and cybersecurity
 
+<div class="pull-left">
+
 #### My favorite GNU/Linux distros
 
 | Debian BTW                                                   | Arch BTW                                                     |
@@ -19,6 +21,8 @@ I'm a network student or smt like that, I love the programming, Unix-like system
   - [XUnix Tips & Desktops](https://t.me/xunixtipdesktops)
 
 - [Vim / Neovim Telegram Channel ](https://t.me/VimNeovimChannel)
+
+</div>
 
 #### More dotfiles
 
