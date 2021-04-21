@@ -26,7 +26,7 @@ I'm a network student or smt like that, I love the programming, Unix-like system
 
 <div class="pull-right"> 
   
-  <img align="right" alt="GIF" src="/img/hacker.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="/img/hacker.gif" width="320" height="500" />
 
 
 #### More dotfiles
