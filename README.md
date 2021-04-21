@@ -10,7 +10,7 @@ I'm a network student or smt like that, I love the programming, Unix-like system
 
 | Debian BTW                                                   | Arch BTW                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="/home/spawn/workspace/spawnmc/img/debian.png" alt="Debian_icon" style="zoom:5%;" /> | <img src="/home/spawn/workspace/spawnmc/img/arch.png" alt="Arch_icon" style="zoom:15%;" /> |
+| <img src="/img/debian.png" alt="Debian_icon" style="zoom:5%;" /> | <img src="/img/arch.png" alt="Arch_icon" style="zoom:15%;" /> |
 
 #### I contribute
 
@@ -22,6 +22,6 @@ I'm a network student or smt like that, I love the programming, Unix-like system
 
 #### More dotfiles
 
-<img src="/home/spawn/workspace/spawnmc/img/akatuski.png" alt="Akatsuki’s" style="zoom:10%;" />
+<img src="/img/akatuski.png" alt="Akatsuki’s" style="zoom:10%;" />
 
 [Akatsuki-CWWD](https://github.com/Akatsuki-CWWD)
