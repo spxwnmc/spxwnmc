@@ -6,6 +6,9 @@
 
 I'm a network student or smt like that, I love the programming, Unix-like systems and cybersecurity
 
+  <img align="right" alt="GIF" src="/img/hacker.gif" width="320" height="500" />
+
+
 <div class="pull-left">
 
 #### My favorite GNU/Linux distros
@@ -25,9 +28,6 @@ I'm a network student or smt like that, I love the programming, Unix-like system
 </div>
 
 <div class="pull-right"> 
-  
-  <img align="right" alt="GIF" src="/img/hacker.gif" width="320" height="500" />
-
 
 #### More dotfiles
 
