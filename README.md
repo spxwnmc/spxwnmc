@@ -25,3 +25,8 @@ I'm a network student or smt like that, I love the programming, Unix-like system
 <img src="/img/akatuski.png" alt="Akatsuki’s" style="zoom:10%;" />
 
 [Akatsuki-CWWD](https://github.com/Akatsuki-CWWD)
+
+📈 My GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spawmc&show_icons=true&theme=react&include_all_commits=false)](https://github-readme-stats.vercel.app/api?username=spawmc&show_icons=true&theme=react&include_all_commits=false)
+[![GitHub Top](https://github-readme-stats.vercel.app/api/top-langs/?username=spawmc&show_icons=true&include_all_commits=true&hide_border=true&theme=react&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=spawmc&show_icons=true&include_all_commits=true&hide_border=true&theme=react&layout=compact)
