@@ -6,12 +6,11 @@
 
 I'm a network student or smt like that, I love the programming, Unix-like systems and cybersecurity
 
-  <img align="right" alt="GIF" src="/img/hacker.gif" width="320" height="500" />
-
-
 <div class="pull-left">
 
 #### My favorite GNU/Linux distros
+
+  <img align="right" alt="GIF" src="/img/hacker.gif" width="320" height="500" />
 
 | Debian BTW                                                   | Arch BTW                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
