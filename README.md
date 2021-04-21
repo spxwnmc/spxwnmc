@@ -25,10 +25,13 @@ I'm a network student or smt like that, I love the programming, Unix-like system
 </div>
 
 <div class="pull-right"> 
+  
+  <img align="right" alt="GIF" src="/img/hacker.gif" width="500" height="320" />
+
 
 #### More dotfiles
 
-<img src="/img/akatuski.png" alt="Akatsuki’s" style="zoom:10%;" />
+<img src="/img/akatsuki.png" alt="Akatsuki’s" style="zoom:10%;" />
 
 [Akatsuki-CWWD](https://github.com/Akatsuki-CWWD)
 
