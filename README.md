@@ -24,11 +24,15 @@ I'm a network student or smt like that, I love the programming, Unix-like system
 
 </div>
 
+<div class="pull-right"> 
+
 #### More dotfiles
 
 <img src="/img/akatuski.png" alt="Akatsuki’s" style="zoom:10%;" />
 
 [Akatsuki-CWWD](https://github.com/Akatsuki-CWWD)
+
+</div>
 
 📈 My GitHub Stats
 
