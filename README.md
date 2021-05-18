@@ -55,5 +55,5 @@ I'm a network student or smt like that, I love the programming, Unix-like system
 
 📈 My GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spawmc&show_icons=true&theme=gotham&include_all_commits=false)
-[![GitHub Top](https://github-readme-stats.vercel.app/api/top-langs/?username=spawmc&show_icons=true&include_all_commits=true&hide_border=false&theme=gotham&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=spawmc&show_icons=true&include_all_commits=true&hide_border=true&theme=gotham&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spawmc&show_icons=true&theme=gotham&include_all_commits=false)
+![GitHub Top](https://github-readme-stats.vercel.app/api/top-langs/?username=spawmc&show_icons=true&include_all_commits=true&hide_border=false&theme=gotham&layout=compact)
