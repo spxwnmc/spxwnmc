@@ -67,6 +67,6 @@ I'm a network student or smt like that, I love the programming, Unix-like system
 
 
 📈 My GitHub Stats
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=spxwnmc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spawmc&show_icons=true&theme=gotham&include_all_commits=false)
-![GitHub Top](https://github-readme-stats.vercel.app/api/top-langs/?username=spawmc&show_icons=true&include_all_commits=true&hide_border=false&theme=gotham&layout=compact)
