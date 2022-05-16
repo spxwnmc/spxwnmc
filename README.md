@@ -20,13 +20,6 @@ I'm a network student or smt like that, I love the programming, Unix-like system
 
 <br>
 
-  📈 My HackTheBox Stats
-
-![spawnmc](http://www.hackthebox.eu/badge/image/469376)
-
-
-
-
 
 <!--
 
