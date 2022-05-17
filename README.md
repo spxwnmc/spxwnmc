@@ -1,11 +1,11 @@
 ## Hi, I’m Spawnmc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![ Telegram](https://img.shields.io/static/v1?label=&message=+Telegram&color=263238&style=for-the-badge&logo=Telegram&logoColor=%23aaaaaaaa)](https://t.me/spawnmc)
-[![ Github](https://img.shields.io/static/v1?label=&message=+Github&color=263238&style=for-the-badge&logo=github&logoColor=%23aaaaaaaa)](https://github.com/spawmc)
+[![ Github](https://img.shields.io/static/v1?label=&message=+Github&color=263238&style=for-the-badge&logo=github&logoColor=%23aaaaaaaa)](https://github.com/spxwnmc)
 [![ Spotify](https://img.shields.io/static/v1?label=&message=+Spotify&color=263238&style=for-the-badge&logo=Spotify&logoColor=%23aaaaaaaa)](https://open.spotify.com/user/backmikk?si=f68ab27022504fd4)
 [![ Reddit](https://img.shields.io/static/v1?label=&message=+Reddit&color=263238&style=for-the-badge&logo=reddit&logoColor=%23aaaaaaaa)](https://www.reddit.com/user/spawnmc)
 [![ Mail](https://img.shields.io/static/v1?label=&message=+Mail&color=263238&style=for-the-badge&logo=gmail&logoColor=%23aaaaaaaa)](spawnmcsqrt@gmail.com)
-[![ Instagram](https://img.shields.io/static/v1?label=&message=+Instagram&color=263238&style=for-the-badge&logo=instagram&logoColor=%23aaaaaaaa)](https://www.instagram.com/spawnmcsqrt/)
+[![ Instagram](https://img.shields.io/static/v1?label=&message=+Instagram&color=263238&style=for-the-badge&logo=instagram&logoColor=%23aaaaaaaa)](https://www.instagram.com/spawnmcs/)
 [![ HackTheBox](https://img.shields.io/static/v1?label=&message=+HackTheBox&color=263238&style=for-the-badge&logo=hackthebox&logoColor=%23aaaaaaaa)](https://app.hackthebox.com/profile/469376)
 
 <br />
