@@ -1,4 +1,4 @@
-## Hi, I’m Spawnmc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=33&color=38F700&vCenter=true&width=423&height=37&lines=Hi%2C+I%E2%80%99m+spawnmc;are+we+hack%3F)](https://git.io/typing-svg)
 
 [![ Telegram](https://img.shields.io/static/v1?label=&message=+Telegram&color=263238&style=for-the-badge&logo=Telegram&logoColor=%23aaaaaaaa)](https://t.me/spawnmc)
 [![ Github](https://img.shields.io/static/v1?label=&message=+Github&color=263238&style=for-the-badge&logo=github&logoColor=%23aaaaaaaa)](https://github.com/spxwnmc)
