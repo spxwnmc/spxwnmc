@@ -10,7 +10,7 @@
 
 <br />
 
-I'm a network student or smt like that, I love the programming, Unix-like systems and cybersecurity
+I'm a System Administrator, focused on Linux/Unix systems and cybersecurity
 
 <div class="pull-left">
   
