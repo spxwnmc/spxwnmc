@@ -10,7 +10,7 @@
 
 <br />
 
-I'm a System Administrator, focused on Linux/Unix systems and cybersecurity
+I'm a fucking red teamer
 
 <div class="pull-left">
   
